@@ -1,10 +1,12 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Ilya%20Lazarev&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20%C2%B7%20Test%20Automation%20%C2%B7%20Full-Stack%20Python&descSize=20&descAlignY=72&fontAlignY=45)
+
 <div align="center">
 
-# Hi, I'm Ilya Lazarev 👋
+### 👋 Hi, I'm an M.Sc. Computer Science student building AI-powered products
 
-### M.Sc. Computer Science student · AI/ML × Test Automation × Full-Stack Python
+**— and I test them like they're going to production, because they are.**
 
-**I build AI-powered products and test them like they're going to production — because they are.**
+![Profile views](https://komarev.com/ghpvc/?username=ilyalaz01&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ilya--lazarev--portfolio.vercel.app-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://ilya-lazarev-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilya%20Lazarev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilya-pablo-lazarev)
@@ -78,6 +80,18 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilyalaz01/ilyalaz01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilyalaz01/ilyalaz01/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ilyalaz01/ilyalaz01/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 ---
 
 <div align="center">
@@ -85,3 +99,5 @@
 💬 **Open to student roles in AI/ML · automation & V&V · Python backend · full-stack** — let's talk!
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer)
