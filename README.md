@@ -71,8 +71,10 @@
 
 <div align="center">
 
-![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyalaz01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyalaz01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilyalaz01&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ilyalaz01&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilyalaz01&theme=tokyonight)
 
 </div>
 
